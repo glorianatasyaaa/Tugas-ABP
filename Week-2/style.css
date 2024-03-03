@@ -1,0 +1,12 @@
+.header-container{
+    background-color: #6f42c1;
+}
+
+.nav-pills .nav-link{
+    color: #6f42c1;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #6f42c1; /* Mengubah warna latar belakang tombol aktif menjadi ungu */
+    color: white; /* Mengubah warna teks tombol aktif menjadi putih */
+}
